@@ -3,32 +3,27 @@
 # How to read a piece of code
 
 ---
-```
-lisp
+```lisp
 
 (println "Hello world!")
 ```
 ---
-```
-python
+```python
 
 print "Hello world!"
 ```
 ---
-```
-ruby
+```ruby
 
 puts "Hello world!"
 ```
 ---
-```
-javascript
+```javascript
 
 document.write("Hello world!");
 ```
 ---
-```
-java
+```java
 
 public class HelloWorld
 {
@@ -39,10 +34,9 @@ public class HelloWorld
 }
 ```
 ---
-```
-c
+```c
 
-#include<stdio.h>
+#include <stdio.h>
  
 int main()
 {
@@ -51,8 +45,7 @@ int main()
 }
 ```
 ---
-```
-cpp
+```cpp
 
 #include <iostream>
  
@@ -61,8 +54,7 @@ int main () {
 }
 ```
 ---
-```
-c#
+```c#
 
 namespace HelloWorld
 {
