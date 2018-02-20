@@ -167,6 +167,44 @@ when confronted a piece of code the primary question is always the same: "what d
 - does the program have a UI?
 	- how does the program respond to UI events?
 ---
+```python
+def fib(n,x=[0,1]):
+   for i in range(abs(n)-1): x=[x[1],sum(x)]
+   return x[1]*pow(-1,abs(n)-1) if n<0 else x[1] if n else 0
+ 
+for i in range(0, 30): print fib(i),
+```
+---
+```javascript
+function fib(n) {
+  var a = 0, b = 1, t;
+  while (n-- > 0) {
+    t = a;
+    a = b;
+    b += t;
+    console.log(a);
+  }
+  return a;
+}
+
+fib(30);
+```
+---
+```ruby
+def fib(n, sequence=[1])
+  n.times do
+    current_number, last_number = sequence.last(2)
+    sequence << current_number + (last_number or 0)
+  end
+ 
+  sequence.last
+end
+
+fib(30)
+```
+---
+[All examples from Rosetta Code](http://rosettacode.org/wiki/Fibonacci_sequence)
+---
 A traditional computer program consists of a plain-text file containing program code.
 ---
 Every programming language is a *formal language* with explicit and precise rules for its syntax and semantics.
