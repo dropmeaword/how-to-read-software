@@ -94,14 +94,14 @@ That software algorithms are now running our whole world means that software fau
 
 ![Cory Doctorow: "The Coming Civil War over General-purpose Computing"](https://www.youtube.com/embed/gbYXBJOFgeI)
 ---
-### The Stack: Benjamin H. Bratton
-![The Stack](https://vimeo.com/117036240)
+##### The Stack: Benjamin H. Bratton
+![The Stack](https://player.vimeo.com/video/117036240)
 
 Benjamin Bratton /// The Stack We Have and The Stack To Come: Designing Sovereignty and the Geopolitics of Computation
 ---
 ## See Automation Paradox
 
-![automation paradox](https://www.youtube.com/watch?v=oMTb7u93mSI)
+![automation paradox](https://www.youtube.com/embed/oMTb7u93mSI)
 ---
 - [99% invisible - part 1 "Children of the Magenta"](https://99percentinvisible.org/episode/children-of-the-magenta-automation-paradox-pt-1/)
 - [99% invisible - part 2 "Johnycab"](https://99percentinvisible.org/episode/children-of-the-magenta-automation-paradox-pt-1/)
@@ -121,8 +121,7 @@ Markup tags are used to annotate fragments of a document and give them a special
 The `<a>` HTML tag marks the beginning of the text we want to highlight as a link, and it's counterpart the closing `</a>` tag specifies where the text to highlight as a link end.
 
 So for example:
-```
-html
+```html
 
 <a href="http://www.myhomepage.info">my home page</a>
 ``` 
