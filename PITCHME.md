@@ -229,14 +229,14 @@ There is a paradox in the field of computer programming: modern high-level progr
 ---
 
 [Programming languages family tree](https://exploringdata.github.io/vis/programming-languages-influence-network/)
-
-[History of programming for two voices](https://www.youtube.com/watch?v=J3C79CDqeW4)
-
-[Languages for knitting](https://www.youtube.com/watch?v=02h74L1PmaU)
-
+---
+[History of programming for two voices](https://www.youtube.com/embed/J3C79CDqeW4)
+---
+[Languages for knitting](https://www.youtube.com/embed/02h74L1PmaU)
+---
 [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-
+---
 [Learnable Programming](http://worrydream.com/LearnableProgramming/)
-
+---
 [What screens want](https://www.frankchimero.com/writing/what-screens-want/)
-
+---
