@@ -92,7 +92,7 @@ That software algorithms are now running our whole world means that software fau
 ---
 ### Cory Doctorow: "The Coming Civil War over General-purpose Computing"
 
-![Cory Doctorow: "The Coming Civil War over General-purpose Computing"](https://www.youtube.com/watch?v=gbYXBJOFgeI)
+![Cory Doctorow: "The Coming Civil War over General-purpose Computing"](https://www.youtube.com/embed/gbYXBJOFgeI)
 ---
 ### The Stack: Benjamin H. Bratton
 ![The Stack](https://vimeo.com/117036240)
