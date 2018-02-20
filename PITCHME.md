@@ -1,6 +1,6 @@
 ---
 
-# How to read a piece of code
+# How to read a new piece of code
 
 ---
 ```lisp
@@ -72,16 +72,15 @@ People that have a favorite language will criticize another person's choice with
 
 (*) "Geek sublime", Vikram Chandra
 ---
-If you think of each line of code as a *component* like a brick in a building, software systems are the most complicated things that humans have ever built: Windows 7 for example, has some 40 million lines of code (LoC).
+If you think of each line of code as a *component* like a brick in a building, software systems are the most complicated things that humans have ever built: Windows 7 for example, has some 40 million lines of code (LoC). Each of these lines of code interacts with other lines of code in ways that are difficult to predict.
 
-No temple, no cathedral, no bridge or palace has ever contained as many invidual components.
+No temple, no cathedral, no bridge or palace has ever contained as many interacting components.
 
 Software is in many ways the craft of manageing complexity.
 ---
 Software is compliticated because it tries to model the irreducible complexity of the world.
 ---
 [Information is Beautiful - Sizes of Code Bases](https://informationisbeautiful.net/visualizations/million-lines-of-code/)
-
 ---
 Electronics have become largely generic, software is what makes a generic piece of hardware perform one function or another.
 
