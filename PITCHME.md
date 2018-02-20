@@ -85,6 +85,8 @@ Software is compliticated because it tries to model the irreducible complexity o
 Electronics have become largely generic, software is what makes a generic piece of hardware perform one function or another.
 
 Think for example or your iPhone, it's a phone but it also is a calculator, a web browser and as many other things as there are apps for it.
+
+READ: [Why Software is Eating the World by Marc Andreessen](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 ---
 That software algorithms are now running our whole world means that software faults or errors can send us down the wrong highway, injure or kill people and cause disasters.
 ---
