@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--
+*
+* based on work by Steffen A. Jakob (http://www.jakob.at/)
+*
+-->
+<html>
+    <head>
+        <title>Sierpinski triangle</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script src="sierpinski.js"></script>
+    </head>
+    <body>
+        <script type="text/javascript">
+            var sierpinski;
+
+            window.onload = function() {
+                var depth = document.getElementById('depthStepper').value;
+                sierpinski = new Sierpinski();
+                sierpinski.drawSierpinskiTriangle(depth);
+            };
+        
+            function addToDepth(inc) {
+                var value = parseInt(document.getElementById('depthStepper').value, 10);
+                value = isNaN(value) ? 0 : value;
+                value += inc;
+                if (value < 0 || value > 10) {
+                    return;
+                }
+                document.getElementById('depthStepper').value = value;
+                sierpinski.drawSierpinskiTriangle(document.getElementById('depthStepper').value);
+            };
+        </script>
+
+        <div id="container">
+            
+            <div id="content">
+                <h1>Recursive construction of a Sierpinski triangle by using the HTML5 canvas element and JavaScript</h1>
+                
+            <p>A Sierpinski triangle is a fractal named after the Polish mathematician Wacław Sierpiński. You can interactively modify the recursion depth between 0 and 10.
+                Have a look at the <a target="_blank" href="http://en.wikipedia.org/wiki/Sierpinski_triangle">Wikipedia article</a> for more info.</p>
+            
+                <canvas id="canvas">
+                    Your browser doesn't support the "canvas" tag.
+                </canvas><br/>
+                Recursion depth:
+                <input type="button" onclick="addToDepth(-1);" value="-"/>
+                <input type="text" id="depthStepper" size="2" value="0" 
+                       onchange="sierpinski.drawSierpinskiTriangle(document.getElementById('depthStepper').value);"
+                />
+                <input type="button" onclick="addToDepth(1);" value="+"/>
+        </div> <!-- container -->
+    </body>
+</html>
