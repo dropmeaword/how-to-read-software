@@ -90,7 +90,7 @@ READ: [Why Software is Eating the World by Marc Andreessen](https://a16z.com/201
 ---
 That software algorithms are now running our whole world means that software faults or errors can send us down the wrong highway, injure or kill people and cause disasters.
 ---
-### Cory Doctorow: "The Coming Civil War over General-purpose Computing"
+##### Cory Doctorow: "The Coming Civil War over General-purpose Computing"
 
 ![Cory Doctorow: "The Coming Civil War over General-purpose Computing"](https://www.youtube.com/embed/gbYXBJOFgeI)
 ---
