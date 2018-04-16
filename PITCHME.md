@@ -10,15 +10,15 @@
 
 ---
 
-Most programming manuals begin with sample code for what is now generally accepted as a universal first program, the infamous "Hello World". Let's look at how the code for "Hello World" looks in different languages.
-
-NOTE: as I show you  these examples try to find out where these programs begin and where they halt (or terminate).
-
----
-
 What are software developers doing when they are writing software? What is their primary task?
 
 NOTE: probably many more things that what we can list together, but primarily they are reading. Software developers spend substantial amounts of their time reading, reading documentation, reading logs, reading API documentation, reading functional specifications, reading other people's code as well as reading their own.
+
+---
+
+Most programming manuals begin with sample code for what is now generally accepted as a universal first program, the infamous "Hello World". Let's look at how the code for "Hello World" looks in different languages.
+
+NOTE: as I show you  these examples try to find out where these programs begin and where they halt (or terminate).
 
 ---
 
@@ -186,6 +186,10 @@ Frontend? Backend?
 	- do *this* and then do *that*
 	- do *this* *x* number of times
 	- do *this* *when that* happens
+
+---
+
+## Programming languages (cont.)
 - can deal with data as input and output
 - can handle events and carry out tasks
 - can evaluate expressions and do mathematical operations
@@ -197,11 +201,11 @@ There are literally hundreds of programming languages
 
 ---
 
-A traditional computer program consists of a plain-text file containing program code
+A traditional computer program consists of a plain-text file containing program code. So to program all you need is a text editor capable of saving plain-text files. Well, that's one of the primary tools at least.
 
 ---
 
-Every programming language is a *formal language* with explicit and precise rules for its syntax and semantics.
+Every programming language is a *formal language* with explicit and precise rules for its syntax, grammar and semantics.
 
 ---
 
@@ -214,7 +218,7 @@ This program prints "Goodbye, World!" as is written in a language called *Brainf
 <+++++++.--------.<<<<<+.<+++.---.
 ```
 
-[See it at work](https://repl.it/repls/MadeupDramaticReference)
+[See it at work](https://repl.it/repls/MadeupDramaticReference) using a REPL (Read-Evaluate-Print Loop)
 
 ---
 
@@ -259,7 +263,7 @@ People that have a favorite language will criticize another person's choice with
 
 ---
 
-All computer programs are writen to accomplish some kind of task.
+All computer programs are written to accomplish some kind of task.
 
 
 When confronted a new piece of code the primary question is always the same: "what does it do?"
