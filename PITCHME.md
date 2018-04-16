@@ -8,6 +8,17 @@
 
 (*) Journal of Software Practice and Experience, 1972, B. W. Lampson
 
+---
+
+Most programming manuals begin with sample code for what is now generally accepted as a universal first program, the infamous "Hello World". Let's look at how the code for "Hello World" looks in different languages.
+
+NOTE: as I show you  these examples try to find out where these programs begin and where they halt (or terminate).
+
+---
+
+What are software developers doing when they are writing software? What is their primary task?
+
+NOTE: probably many more things that what we can list together, but primarily they are reading. Software developers spend substantial amounts of their time reading, reading documentation, reading logs, reading API documentation, reading functional specifications, reading other people's code as well as reading their own.
 
 ---
 
@@ -88,7 +99,7 @@ int main () {
 }
 ```
 
-(this is the same language you used in Arduino projects)
+(this is the same language you use in Arduino projects, though the Arduino integrated development environment or IDE, likes to conceal this fact from us and give us a more accessible starting point)
 
 ---
 
@@ -146,7 +157,7 @@ If you want to have full control over how your HTML documents look like, you mus
 
 ## CSS is not a programming language
 
-CSS stands for *Cascading Style Sheets*, it is a way of declaring visual styles to be applied in an HTML document.
+CSS stands for *Cascading Style Sheets*, it is a way of declaring visual styles to be applied to a HTML document.
 
 ---
 
@@ -168,10 +179,6 @@ Frontend? Backend?
 
 ---
 
-This is a historical "accident", Microsoft was working on a network to compete with the Internet and they were using Word documents as the basis for their presentation layer. So if they had been successful, the whole software landscape and how you build a site, would be radically different today.
-
----
-
 ## Programming languages
 - have functional purposes such as processing data or making decisions
 - they have statements to control execution flow
@@ -190,7 +197,7 @@ There are literally hundreds of programming languages
 
 ---
 
-A traditional computer program consists of a plain-text file containing program code.
+A traditional computer program consists of a plain-text file containing program code
 
 ---
 
@@ -259,7 +266,7 @@ When confronted a new piece of code the primary question is always the same: "wh
 
 ---
 
-## reading a program
+## tips to read a program
 
 - what language is it written on?
 - what platform is it written for?
@@ -273,7 +280,7 @@ When confronted a new piece of code the primary question is always the same: "wh
 
 #### Frameworks and platforms do matter
 
-A C++ in the Arduino framework:
+A C++ program in the Arduino framework:
 
 ```cpp
 void setup() {
@@ -297,7 +304,7 @@ void loop() {
 
 ---
 
-A C++ program using the STL:
+An another C++ program using the STL:
 
 ```cpp
 #include <iostream>
@@ -350,16 +357,15 @@ function fib(n) {
   var a = 0, b = 1, t;
   while (n-- > 0) { 
   	// do the following block as many times as specified in parameter 'n'
-    
     t = a;
     a = b;
-    b += t; // calculate the sum for 'n'
+    b += t; // calculate the sum for 'n-th element'
     console.log(a); // print intermediate value
   }
   return a; // return last result
 }
 
-fib(30);
+fib(30); // calculate the fibonacci sequence for parameter
 ```
 
 ---
@@ -368,7 +374,7 @@ fib(30);
 
 - start from the more abstract and work your way to the concrete
 - ask yourself first WHAT it does before you dig into HOW it does it
-- use comments next to the code you are reading to slowly bring
+- use comments next to the code you are reading to slowly bring it closer to your domain of understanding
 
 ---
 
@@ -433,7 +439,7 @@ fib(30)
 
 #### Code is supposed to be WRITTEN and READ
 
-When you are writing code, you write code for another human, not for machines. 
+When you are writing code, you write code for another human, not for machines. Machines cannot understand code the same way we type it.
 
 ---
 
@@ -441,13 +447,15 @@ The real audience of your code, its readers, are the humans that will help you a
 
 ---
 
-Sometimes that other human is in fact the future you. Coming back to a piece of code that you wrote three months ago will require an effort from you to understand it again. How you write your code today will have an impact in your future work as well.
+Sometimes that other human is in fact the future you. Coming back to a piece of code that you wrote three months ago will require an effort from you to understand it again even thought you wrote it yourself.
 
 ---
 
 "Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaning to human beings what we want the computer to do"
 
 (*) Literate Programming, 1984, Donald Knuth [more info](http://www.literateprogramming.com/)
+
+NOTE: you never do your thinking in front of code
 
 ---
 
