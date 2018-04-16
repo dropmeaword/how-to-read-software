@@ -277,6 +277,11 @@ When confronted a new piece of code the primary question is always the same: "wh
 - is this program using any frameworks?
   - what do I know about that framework?
 - where does the program begin?
+
+---
+
+## tips to read a program (cont.)
+
 - does the program end? (ending isn't really a requirement for a program)
 	- if so: under which conditions does the program end
 - does the program have a UI?
@@ -353,7 +358,8 @@ int main()
 ---
 
 ## reading a program
-- use comments and [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) to make things clear for yourself
+
+use comments and [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) to make things clear for yourself
 
 Always try to bring the program closer to your language, without getting away from the code, try and rewrite parts of it in a language closer to plain english, or whatever natural language you are more comfortable with.
 
