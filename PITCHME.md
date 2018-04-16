@@ -274,6 +274,8 @@ When confronted a new piece of code the primary question is always the same: "wh
 
 - what language is it written on?
 - what platform is it written for?
+- is this program using any frameworks?
+  - what do I know about that framework?
 - where does the program begin?
 - does the program end? (ending isn't really a requirement for a program)
 	- if so: under which conditions does the program end
