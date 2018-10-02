@@ -1,6 +1,6 @@
 ---
 
-# How to Read Code
+# How to Read Software
 
 ---
 
