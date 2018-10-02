@@ -165,6 +165,10 @@ Doing HTML & CSS is not programming, people that do HTML and CSS are concerning 
 
 ---
 
+In 2017 Tony Beltramelli [introduced the pix2code paper](https://arxiv.org/abs/1705.07962) that presented research that will eventually make the job of the frontend programmer and possibly even the UI designer obsolete. Shortly after Airbnb [launched sketch2code](https://airbnb.design/sketching-interfaces/).
+
+---
+
 Making a document in HTML/CSS is not so different from creating a document in PDF or PostScript (both of which are also markup languages) or even Word.
 
 ---
