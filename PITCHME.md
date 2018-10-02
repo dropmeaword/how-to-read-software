@@ -189,6 +189,10 @@ Another initiative in attaining similar goals [The Grid](https://thegrid.io/), t
 
 ---
 
+Does this impact your profession, if so, how?
+
+---
+
 *Back to today's subject....*
 
 ---
