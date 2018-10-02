@@ -573,6 +573,24 @@ Donald Knuth, The Art of Computer Programming on writing TeX
 
 ---
 
+Rich Hickey, designer of programming language Clujore, emphasizes simplicity’s virtues over easiness’, showing that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
+
+[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)
+
+---
+
+Bret Victor's essay on making programming more accessible
+
+[Learnable Programming](http://worrydream.com/LearnableProgramming/)
+
+---
+
+What does it mean to design for a screen?
+
+[What screens want](https://www.frankchimero.com/writing/what-screens-want/)
+
+---
+
 [Programming languages family tree](https://exploringdata.github.io/vis/programming-languages-influence-network/)
 
 ---
@@ -583,16 +601,3 @@ Donald Knuth, The Art of Computer Programming on writing TeX
 
 [Languages for knitting](https://www.youtube.com/embed/02h74L1PmaU)
 
----
-
-[Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-
----
-
-[Learnable Programming](http://worrydream.com/LearnableProgramming/)
-
----
-
-[What screens want](https://www.frankchimero.com/writing/what-screens-want/)
-
----
