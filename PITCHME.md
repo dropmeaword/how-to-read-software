@@ -4,7 +4,7 @@
 
 ---
 
-[...] hardware would become so cheap that 'almost everyone who uses a pencil will use a computer,' and that these users would be able to use 'realiable software components' to put together complex programs.
+[...] hardware would become so cheap that **'almost everyone who uses a pencil will use a computer,'** and that these users would be able to use 'realiable software components' to put together complex programs.
 
 (*) Journal of Software Practice and Experience, 1972, B. W. Lampson
 
