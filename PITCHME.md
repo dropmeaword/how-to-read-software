@@ -185,6 +185,10 @@ You might have seen this already, since it has been doing the rounds in social m
 
 ---
 
+For those of you inclined to *build your own* neural net to churn out designs, [you can start here](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+
+---
+
 Another initiative in attaining similar goals [The Grid](https://thegrid.io/), the premise is simple, you upload the content and a Machine Learning algorithm "designs" a responsive template for you to best present that content. 
 
 ---
