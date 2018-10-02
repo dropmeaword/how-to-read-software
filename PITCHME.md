@@ -567,7 +567,7 @@ That software algorithms are now running our whole world means that software fau
 
 ---
 
-"Software is hard. It's harder than anything else I've ever had to do."
+*"Software is hard. It's harder than anything else I've ever had to do."*
 
 Donald Knuth, The Art of Computer Programming on writing TeX
 
