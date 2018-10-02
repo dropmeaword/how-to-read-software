@@ -499,11 +499,15 @@ Sometimes that other human is in fact the future you. Coming back to a piece of 
 
 ---
 
-"Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaning to human beings what we want the computer to do"
+"Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, **let us concentrate rather on explaning to human beings what we want the computer to do**"
 
 (*) Literate Programming, 1984, Donald Knuth [more info](http://www.literateprogramming.com/)
 
 NOTE: you never do your thinking in front of code
+
+---
+
+Exercise: "**let us concentrate rather on explaning to human beings what we want the computer to do**"
 
 ---
 
@@ -515,7 +519,7 @@ If you think of each line of code as a *component* like a brick in a building, s
 
 No temple, no cathedral, no bridge or palace has ever contained as many interacting components.
 
-Software is in many ways the craft of manageing complexity.
+Software is in many ways the craft of managing complexity.
 
 ---
 
@@ -563,7 +567,7 @@ That software algorithms are now running our whole world means that software fau
 
 ---
 
-Software is hard. It's harder than anything else I've ever had to do.
+"Software is hard. It's harder than anything else I've ever had to do."
 
 Donald Knuth, The Art of Computer Programming on writing TeX
 
