@@ -169,6 +169,10 @@ In 2017 Tony Beltramelli [introduced the pix2code paper](https://arxiv.org/abs/1
 
 ---
 
+Another initiative in attaining similar goals [The Grid](https://thegrid.io/), the premise is simple, you upload the content and a Machine Learning algorithm "designs" a responsive template for you to best present that content. 
+
+---
+
 Making a document in HTML/CSS is not so different from creating a document in PDF or PostScript (both of which are also markup languages) or even Word.
 
 ---
