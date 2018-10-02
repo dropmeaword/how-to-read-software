@@ -393,6 +393,10 @@ int main()
 
 ---
 
+**See the provided Sierpinski triangle sketch in javascript**
+
+---
+
 ## reading a program
 
 use comments and [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) to make things clear for yourself
