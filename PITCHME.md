@@ -181,6 +181,10 @@ In 2017 Tony Beltramelli [introduced the pix2code paper](https://arxiv.org/abs/1
 
 ---
 
+You might have seen this already, since it has been doing the rounds in social media over the last week.  Romanian company TeleportHQ has been working on a *code generation* system they call [Think to Code](https://twitter.com/TeleportHQio/status/1043245039261044736)
+
+---
+
 Another initiative in attaining similar goals [The Grid](https://thegrid.io/), the premise is simple, you upload the content and a Machine Learning algorithm "designs" a responsive template for you to best present that content. 
 
 ---
