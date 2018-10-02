@@ -165,7 +165,19 @@ Doing HTML & CSS is not programming, people that do HTML and CSS are concerning 
 
 ---
 
+*A little detour...*
+
+---
+
 In 2017 Tony Beltramelli [introduced the pix2code paper](https://arxiv.org/abs/1705.07962) that presented research that will eventually make the job of the frontend programmer and possibly even the UI designer obsolete. Shortly after Airbnb [launched sketch2code](https://airbnb.design/sketching-interfaces/).
+
+---
+
+*"The time required to test an idea should be zero."* Benjamin Wilkins, Airbnb
+
+---
+
+*"As it stands now, every step in the design process and every artifact produced is a dead end. Work stops whenever one discipline finishes a portion of the project and passes responsibility to another discipline. Projects progress from stakeholder meetings to design to engineering; requirements become explorations, explorations become mockups and prototypes, and these are handed off to developers to become final products. But each of these cumbersome steps is, at its core, a translation of shared meaning to a different medium in progression toward a common goal, with skilled experts in each domain acting as translators."* Benjamin Wilkins, Airbnb.
 
 ---
 
@@ -173,17 +185,21 @@ Another initiative in attaining similar goals [The Grid](https://thegrid.io/), t
 
 ---
 
+*Back to today's subject....*
+
+---
+
 Making a document in HTML/CSS is not so different from creating a document in PDF or PostScript (both of which are also markup languages) or even Word.
 
 ---
 
-Javascript however is a programming language. You can write Javascript without HTML and you can write HTML without Javascript. However in the *frontend* development world you will mostly see them in tandem.
+Javascript however is a programming language. You can write Javascript without HTML and you can write HTML without Javascript. However in the *frontend development* world you will mostly see them in tandem.
 
 ---
 
 In most modern web applications the HTML serves as a kind of UI and the Javascript carries out the interaction logic (and thanks to nodejs even the backend).
 
-Frontend? Backend?
+*Frontend? Backend?*
 
 ---
 
