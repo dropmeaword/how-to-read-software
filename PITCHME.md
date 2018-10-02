@@ -577,7 +577,7 @@ Donald Knuth, The Art of Computer Programming on writing TeX
 
 ---
 
-Rich Hickey, designer of programming language Clujore, emphasizes simplicity’s virtues over easiness’, showing that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
+Rich Hickey, designer of programming language Clojure, emphasizes simplicity’s virtues over easiness’, showing that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
 
 [Simple made easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 
